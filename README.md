@@ -175,4 +175,4 @@ Giriş yaptıktan sonra `/admin` adresinden proje ve mesajlarını yönetebilirs
 
 ---
 
-*Made with ❤️ using Laravel & Tailwind CSS*
+*Made with using Laravel & Tailwind CSS*
